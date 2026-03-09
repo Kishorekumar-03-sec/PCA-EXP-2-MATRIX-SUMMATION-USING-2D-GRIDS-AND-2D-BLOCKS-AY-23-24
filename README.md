@@ -199,4 +199,4 @@ Google Colab with NVCC Compiler
       sumMatrixOnGPU2D <<<(32,32), (32,32)>>> elapsed 0.091984 sec
       Arrays match.
 ## RESULT:
-The host took _________ seconds to complete it’s computation, while the GPU outperforms the host and completes the computation in ________ seconds. Therefore, float variables in the GPU will result in the best possible result. Thus, matrix summation using 2D grids and 2D blocks has been performed successfully.
+The host took 0.003735 seconds to complete its computation, while the GPU outperforms the host and completes the computation in 0.091984 seconds. Therefore, float variables in the GPU will result in the best possible result. Thus, matrix summation using 2D grids and 2D blocks has been performed successfully.
